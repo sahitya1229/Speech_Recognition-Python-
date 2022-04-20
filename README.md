@@ -26,3 +26,4 @@ Code Explanation:
    c. Button(): It adds a button on the tkinter window.
    d. SpeechToText(): This is the main function for converting speech to text.
    e. mainwindow.mainloop(): It helps in running our program.
+
